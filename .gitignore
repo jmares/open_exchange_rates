@@ -1,0 +1,7 @@
+.DS_Store
+*.sqlite3
+*.db
+config.py
+messages.txt
+*.log
+__pycache__
